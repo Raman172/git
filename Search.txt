@@ -1,6 +1,10 @@
 This IS ERaman
 This is Echange
+<<<<<<< HEAD
 dfdsfsdfsd
+=======
+sdgsdgsd
+>>>>>>> bca1e53fc8b71d417315ec3e408174155ce62cc6
 This is EChange
 In between
 This is FChange
